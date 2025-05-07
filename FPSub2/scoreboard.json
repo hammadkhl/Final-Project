@@ -1,0 +1,22 @@
+{
+  "easy": {
+    "wins": 2,
+    "losses": 0
+  },
+  "hard": {
+    "wins": 0,
+    "losses": 1
+  },
+  "Easy": {
+    "wins": 1,
+    "losses": 0
+  },
+  "Medium": {
+    "wins": 1,
+    "losses": 0
+  },
+  "Harvard": {
+    "wins": 1,
+    "losses": 2
+  }
+}
